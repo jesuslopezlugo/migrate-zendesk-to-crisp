@@ -1,0 +1,25 @@
+{
+  "name": "01_migration_zendesk_to_crysp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/plustteam/clients/C09/01_migration_zendesk_to_crysp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/plustteam/clients/C09/01_migration_zendesk_to_crysp/issues"
+  },
+  "homepage": "https://gitlab.com/plustteam/clients/C09/01_migration_zendesk_to_crysp#readme",
+  "dependencies": {
+    "crisp-api": "^6.3.0",
+    "dotenv": "^16.0.2",
+    "n-readlines": "^1.0.1"
+  }
+}
